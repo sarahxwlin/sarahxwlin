@@ -10,7 +10,6 @@
 [![Twitter: procrasprinces](https://img.shields.io/twitter/follow/procrasprinces?style=social)](https://twitter.com/procrasprinces)[![GitHub procrasprincess](https://img.shields.io/github/followers/procrasprincess?label=follow&style=social)](https://github.com/procrasprincess)
 </div>
 
-<br>
 
 ### 👩🏼‍💻 So...a little about me...  
 <img align='right' src="./img/profile.jpg" width="250">
@@ -33,8 +32,6 @@ const sarah = {
 ```
 </div>
 
-<br>
-
 ### &#x1f4c8; GitHub Stats
 <p align="center">
 <a href="https://github.com/procrasprincess">
@@ -42,26 +39,8 @@ const sarah = {
 </a>
 </p>
 
-<br>
-
 ### 🤹🏼‍♀️ Today's Laughs
 <div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
-
-
-<!-- Github Template
-**procrasprincess/procrasprincess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
