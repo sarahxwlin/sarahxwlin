@@ -12,8 +12,6 @@
 
 
 ### 👩🏼‍💻 So...a little about me...  
-<img align='right' src="./img/profile.jpg" width="250">
-
 <div>
 
 ```javascript
@@ -22,8 +20,8 @@ const sarah = {
   path: ["graduate-student", 
          "full-stack-developer",
          "digital-content-creator"],
-  code: [HTML, CSS, Python, 
-         Java, C#, Javascript, 
+  languages: [HTML, CSS, Python, 
+         C#, Javascript, 
          PHP, GLSL, Bash],
   tools: [React, Flask, Node, Symphony,
           Vagrant, Bootstrap, Homebrew, Unity],
