@@ -30,12 +30,12 @@ const sarah = {
 ```
 </div>
 
-### &#x1f4c8; GitHub Stats
+<!-- ### &#x1f4c8; GitHub Stats
 <p align="center">
 <a href="https://github.com/procrasprincess">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=procrasprincess&show_icons=true&line_height=27&count_private=true&title_color=c9afcc&text_color=c9afcc&icon_color=4AB097&bg_color=f2f2f2" alt="Sarah's GitHub Stats" />
 </a>
-</p>
+</p> -->
 
 ### 🤹🏼‍♀️ Today's Laughs
 <div align="center">
