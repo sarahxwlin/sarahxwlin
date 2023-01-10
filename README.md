@@ -16,19 +16,25 @@
 
 ```javascript
 const sarah = {
-    pronouns: "she", "her", "hers",
-    path: [ "graduate-student", 
-            "full-stack-developer",
-            "digital-content-creator"],
-    languages: [Python, R, HTML, CSS, 
-                C#, Javascript, 
-                PHP, GLSL, Bash],
-    fav_stacks: [ React, Flask, Node, Symphony,
-                  Vagrant, Bootstrap, Homebrew, Unity],
-    passion: [ "web & software development",
-               "data science & analytics
-               "graphic-design",
-               "game design"]
+    
+    pronouns = ["she", "her", "hers"],
+    
+    path = [ "Graduate-Student", 
+            "Fullstack-Developer",
+            "Digital-Content-Creator"],
+    
+    languages = [ Python, R, MATLAB, C#,
+                 HTML, CSS, JS/Node.js, 
+                 SQL, PHP, GLSL, Bash],
+    
+    fav_stacks = [ LAMP = "Linux, Apache, MySQL, PHP",
+                   MERN = "MongoDB, Express, React, Node.js" ],
+    
+    passion = [ "Web-Software Development",
+                "Data-Science-and-Analytics
+                "Graphic-Design",
+                "Game-Design"]
+    
 }
 ```
 </div>
