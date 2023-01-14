@@ -7,7 +7,7 @@
 <!-- Badges -->
 <div align="center">
 
-[![Twitter: procrasprinces](https://img.shields.io/twitter/follow/procrasprinces?style=social)](https://twitter.com/procrasprinces)[![GitHub procrasprincess](https://img.shields.io/github/followers/procrasprincess?label=follow&style=social)](https://github.com/procrasprincess)
+[![GitHub procrasprincess](https://img.shields.io/github/followers/procrasprincess?label=follow&style=social)](https://github.com/procrasprincess)
 </div>
 
 
