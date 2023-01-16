@@ -15,26 +15,24 @@
 <div>
 
 ```javascript
-const sarah = {
-    
+const sarah = {    
     pronouns = ["she", "her", "hers"],
     
-    path = [ "Graduate-Student", 
+    path = ["Graduate-Student", 
             "Fullstack-Developer",
             "Digital-Content-Creator"],
     
-    languages = [ Python, R, MATLAB, C#,
+    languages = [Python, R, MATLAB, C#,
                  HTML, CSS, JS/Node.js, 
                  SQL, PHP, GLSL, Bash],
     
-    fav_stacks = [ LAMP = "Linux, Apache, MySQL, PHP",
-                   MERN = "MongoDB, Express, React, Node.js" ],
+    fav_stacks = [LAMP = "Linux, Apache, MySQL, PHP",
+                  MERN = "MongoDB, Express, React, Node.js"],
     
-    passion = [ "Web-Software Development",
-                "Data-Science-and-Analytics
-                "Graphic-Design",
-                "Game-Design"]
-    
+    passion = ["Web-Software Development",
+               "Data-Science-and-Analytics",
+               "Graphic-Design",
+               "Game-Design"]    
 }
 ```
 </div>
