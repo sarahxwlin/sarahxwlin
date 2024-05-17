@@ -11,7 +11,7 @@
 
 </div>
 
-### 👩🏼‍💻 So...a little about me...  
+### 🚀 Here's the latest
 <!-- <img align='right' src="./img/profile.jpg" width="250"> -->
 
 <div>
@@ -25,17 +25,26 @@ const current_status = {
 ```
 </div>
 
-<div>
+### 🃏 Today's laugh
 
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
+### 👩🏼‍💼 So, a little bit about myself
+
+<div>
+    
 ```javascript
 const sarah = {    
-    pronouns:  ["👩🏼‍💼she", "🧝🏼‍♀️her", "🧜🏼‍♀️hers"],
+    pronouns:  ["👩🏼‍💻 she", "🧝🏼‍♀️ her", "🧜🏼‍♀️ hers"],
 
     education: [{ 
         degrees: 
-            "🎓 M.S. in Applied Analytics | Columbia'24 🦁 | 3.9, " + 
-            "🎓 M.S. in Computer Science | Pace'19 🐶 | 3.5, " + 
-            "🎓 B.S. in Biz Admin, Finance, Digital Arts | StonyBrook'17 🐺"
+            "🎓 M.S. in Applied Analytics | Columbia University'24 🦁 | 3.9, " + 
+            "🎓 M.S. in Computer Science | Pace University'19 🐶 | 3.5, " + 
+            "🎓 B.S. in Business Admin, Finance, Digital Arts | Stony Brook'17 🐺"
     }],
     
     path:      [
@@ -130,10 +139,3 @@ const sarah = {
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=procrasprincess&show_icons=true&line_height=27&count_private=true&title_color=c9afcc&text_color=c9afcc&icon_color=4AB097&bg_color=f2f2f2" alt="Sarah's GitHub Stats" />
 </a>
 </p> -->
-
-### 🤹🏼‍♀️ Today's Laughs
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
