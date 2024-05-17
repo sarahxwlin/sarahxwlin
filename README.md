@@ -7,7 +7,12 @@
 <!-- Badges -->
 <div align="center">
 
-[![Twitter: procrasprinces](https://img.shields.io/twitter/follow/procrasprinces?style=social)](https://twitter.com/procrasprinces)[![GitHub procrasprincess](https://img.shields.io/github/followers/procrasprincess?label=follow&style=social)](https://github.com/procrasprincess)
+[![GitHub procrasprincess](https://img.shields.io/github/followers/procrasprincess?label=follow&style=social)](https://github.com/procrasprincess)
+
+<object data="https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarahxiaoweilin%2F&up_message=%2B%20connect&up_color=white&down_message=connect&down_color=white&logo=LinkedIn&logoColor=blue&label=LinkedIn&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarahxiaoweilin%2F">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarahxiaoweilin%2F&up_message=%2B%20connect&up_color=white&down_message=connect&down_color=white&logo=LinkedIn&logoColor=blue&label=LinkedIn&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarahxiaoweilin%2F">
+</object>
+
 </div>
 
 <br>
