@@ -2,7 +2,7 @@
 <img src="./img/banner.png">
 <!-- Introduction -->
 <h1 align='center'> Welcome to My GitHub <img src="./img/tenor.gif" width="70"></h1>
-<p align="center">Hello👋🏼, I'm Sarah. Nice to meet you!</p>
+<p align="center">Hello, I'm Sarah 👋🏼</p>
 
 <!-- Badges -->
 <div align="center">
@@ -18,11 +18,16 @@
 
 ```javascript
 const current_status = {
-    working_on: "🔭 New beginnings, networking, job search, and creating",
-    learning:   "🌱 Mobile dev, UI & UX, LP, and French",
-    say_hello:  "💬 Let's connect",
+    greeting:    "💬 Nice to meet you. Let's connect~",
+    learning:    "🌱 Mobile dev, UI & UX, LP, and French",
+    working_on:  "🔭 New beginnings, networking, job search, and creating",
 };
+```
+</div>
 
+<div>
+
+```javascript
 const sarah = {    
     pronouns:  ["👩🏼‍💼she", "🧝🏼‍♀️her", "🧜🏼‍♀️hers"],
 
