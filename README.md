@@ -18,66 +18,103 @@
 
 ```javascript
 const current_status = {
-    working_on: "🔭 Networking, improving portfolio, job search, and creating",
-    learning:   "🌱 Mobile dev, UI & UX, LP, and french",
-    say_hello:  "💬 Let's connect!",
+    working_on: "🔭 New beginnings, networking, job search, and creating",
+    learning:   "🌱 Mobile dev, UI & UX, LP, and French",
+    say_hello:  "💬 Let's connect",
 };
 
 const sarah = {    
-    pronouns:  ["she", "her", "hers"],     
-    
-    path:      ["🎓 Academic", 
-                "👩‍💻 Developer",
-                "📊 Analyst",
-                "🛠️ Engineer",
-                "💼 Consultant"],
-   
-    passions:  ["🌐 Web Dev",
-                "🔧 Fullstack Dev",
-                "📈 Data Sci and Analytics",
-                "⚙️ DevOps",
-                "🎮 Game Dev",                
-                "🤖 ML",
-                "🧠 AI",
-                "📱 Mobile Dev",
-                "🎨 UI/UX"]
+    pronouns:  ["👩🏼‍💼she", "🧝🏼‍♀️her", "🧜🏼‍♀️hers"],
 
-    education: [{ degrees: "🎓 M.S. in Applied Analytics | Columbia'24 🦁 | 3.9" + 
-                           "🎓 M.S. in Computer Science | Pace'19 🐶 | 3.5" + 
-                           "🎓 B.S. in Biz Admin, Finance, Digital Arts | StonyBrook'17 🐺"}],
+    education: [{ 
+        degrees: 
+            "🎓 M.S. in Applied Analytics | Columbia'24 🦁 | 3.9, " + 
+            "🎓 M.S. in Computer Science | Pace'19 🐶 | 3.5, " + 
+            "🎓 B.S. in Biz Admin, Finance, Digital Arts | StonyBrook'17 🐺"
+    }],
+    
+    path:      [
+        "📊 Analyst", 
+        "💼 Consultant",
+        "👩‍💻 Developer",
+        "🛠️ Engineer",
+        "📚 Scholar"
+    ],
+   
+    passions:  [
+        "🌐 Web Dev",
+        "🔧 Fullstack Dev",
+        "📈 Data Sci and Analytics",
+        "⚙️ DevOps",
+        "🎮 Game Dev",                
+        "🤖 ML",
+        "🧠 AI",
+        "📱 Mobile Dev",
+        "🎨 UI/UX"
+    ],
 
     dev_exp:   {
-        languages:  ["Python", "R", "JS/Node.js", "Bash", "HTML", "CSS", "React", 
-                     "Django", "Flask", "PostgreSQL", "MongoDB", "MySQL", "MATLAB"],
-        tools_fw:   ["Tableau", "Docker", "Git/GitHub", "VS Code", "Pandas",
-                     "Microsoft Office", "Canva", "Zotero", "AWS", "Google Cloud"],
-        prog_dev:   ["Fullstack", "Microservices", "API", "Frontend", "Backend"],
-        data:       ["Data Manipulation", "Statistical Analysis", "Data Visualization", 
-                     "Machine Learning", "Predictive Modeling", "Data Cleaning", 
-                     "Exploratory Data Analysis (EDA)", "Data Analytics"]},
-    
-    fav_stacks: {
-        LAMP:        {
-            incl:      "Linux, Apache, MySQL, PHP",
-            focus:     ["Fullstack Dev", "Server Mgmt", "DB Mgmt"]},
-        MERN:        {
-            incl:      "MongoDB, Express, React, Node.js",
-            focus:     ["JS Dev", "RESTful APIs", "Frontend Dev"]},
-        DJANGOstack: {
-            incl:      "Python, Django, HTML, CSS, JS, PostgreSQL",
-            focus:     ["Fullstack Dev", "Backend", "Frontend"]},
-        FLASKstack:  {
-            incl:      "Python, Flask, HTML, CSS, JS, MySQL",
-            focus:     ["Microservices", "API", "Backend"]},
-        PYDATA:      {
-            incl:      "Python | Pandas, NumPy, Matplotlib, Seaborn, Sklearn",
-            focus:     ["Data Manipulation", "Stat Analysis", "Data Viz", "ML"]},
-        RDATA:       {
-            incl:      "R | ggplot2, dplyr, tidyr, caret",
-            focus:     ["Stat Analysis", "Data Viz", "ML"]},
-        SQLDATA:     {
-            incl:      "SQL | PostgreSQL, MySQL, MongoDB",
-            focus:     ["DB Mgmt", "Data Query", "Data Manip"]}}
+        languages:  [
+            "🐍 Python", 
+            "📊 R", 
+            "🌐 JS/Node.js", 
+            "🐚 Bash", 
+            "📄 HTML", 
+            "🎨 CSS", 
+            "⚛️ React", 
+            "🦄 Django", 
+            "🍰 Flask", 
+            "🐘 PostgreSQL", 
+            "🍃 MongoDB", 
+            "🐬 MySQL", 
+            "📐 MATLAB"
+        ],
+
+        tools_fw:   [
+            "🔧 Tableau", 
+            "🐋 Docker", 
+            "🐙 Git/GitHub", 
+            "🖥️ VS Code", 
+            "🐼 Pandas",
+            "💼 Microsoft Office", 
+            "🎨 Canva", 
+            "📚 Zotero", 
+            "☁️ AWS", 
+            "☁️ Google Cloud"
+        ],
+
+        prog_dev:   [
+            "🔌 API",
+            "🔙 Backend",             
+            "🖥️ Frontend",
+            "💻 Fullstack", 
+            "🔗 Microservices",
+            "🛠️ Server-Client Management"
+        ],
+
+        data_skills: [
+            "📊 Data Manipulation", 
+            "📈 Statistical Analysis", 
+            "📉 Data Visualization", 
+            "🤖 Machine Learning", 
+            "🔮 Predictive Modeling", 
+            "🧹 Data Cleaning", 
+            "🔍 Exploratory Data Analysis (EDA)", 
+            "📊 Data Analytics",
+            "🗄️ Database Management",
+            "🔍 Data Query"
+        ],
+
+        fav_stacks: {
+            LAMP:        { stack: "🐧 Linux, Apache, MySQL, PHP/Python" },
+            MERN:        { stack: "🌿 MongoDB, Express, React, Node.js" },
+            DJANGOstack: { stack: "🦄 Python, Django, HTML, CSS, JS, PostgreSQL" },
+            FLASKstack:  { stack: "🍰 Python, Flask, HTML, CSS, JS, MySQL" },
+            PYDATA:      { stack: "📊 Python | Pandas, NumPy, Matplotlib, Seaborn, Sklearn" },
+            RDATA:       { stack: "📉 R | ggplot2, dplyr, tidyr, caret" },
+            SQLDATA:     { stack: "🗄️ SQL | PostgreSQL, MySQL, MongoDB" }
+        }
+    }
 };
 ```
 </div>
@@ -88,7 +125,9 @@ const sarah = {
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=procrasprincess&show_icons=true&line_height=27&count_private=true&title_color=c9afcc&text_color=c9afcc&icon_color=4AB097&bg_color=f2f2f2" alt="Sarah's GitHub Stats" />
 </a>
 </p> -->
+
 ### 🤹🏼‍♀️ Today's Laughs
+
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
