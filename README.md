@@ -42,8 +42,8 @@ const sarah = {
 
     education: [{ 
         degrees: 
-            "🎓 M.S. in Applied Analytics | Columbia University'24 🦁 | 3.9, " + 
-            "🎓 M.S. in Computer Science | Pace University'19 🐶 | 3.5, " + 
+            "🎓 M.S. in Applied Analytics | Columbia University'24 🦁, " + 
+            "🎓 M.S. in Computer Science | Pace University'19 🐶, " + 
             "🎓 B.S. in Business Admin, Finance, Digital Arts | Stony Brook'17 🐺"
     }],
     
