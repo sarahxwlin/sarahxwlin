@@ -7,7 +7,7 @@
 <!-- Badges -->
 <div align="center">
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarahxiaoweilin%2F&up_message=%2B%20connect&up_color=white&down_message=connect&down_color=white&logo=LinkedIn&logoColor=blue&label=LinkedIn&labelColor=white&color=blue)](https://www.linkedin.com/in/sarahxiaoweilin/) [![GitHub procrasprincess](https://img.shields.io/github/followers/procrasprincess?label=follow&style=social)](https://github.com/procrasprincess)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarahxwlin%2F&up_message=%2B%20connect&up_color=white&down_message=connect&down_color=white&logo=LinkedIn&logoColor=blue&label=LinkedIn&labelColor=white&color=blue)](https://www.linkedin.com/in/sarahxwlin/) [![GitHub sarahxwlin](https://img.shields.io/github/followers/sarahxwlin?label=follow&style=social)](https://github.com/sarahxwlin)
 
 </div>
 
