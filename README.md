@@ -30,43 +30,7 @@ const current_status = {
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
 
-### 👩🏼‍💼 So, a little bit about myself
 
-<div>
-    
-```javascript
-const sarah = {    
-    pronouns: ["👩🏼‍💻 she", "🧝🏼‍♀️ her", "🧜🏼‍♀️ hers"],
-
-    education: ["🎓 M.S. Applied Analytics | Columbia'24 🦁", 
-                "🎓 M.S. Computer Science | Pace'19 🐶", 
-                "🎓 B.S. Business Admin, Finance, Digital Arts | Stony Brook'17 🐺"],
-
-    path: ["📊 Analyst", "💼 Consultant", "👩‍💻 Developer", "🛠️ Engineer", "📚 Scholar"],
-   
-    passions: ["🌐 Web Dev", "🔧 Fullstack Dev", "📈 Data Sci", "⚙️ DevOps", "🎮 Game Dev", "🤖 ML", "🧠 AI", "📱 Mobile Dev", "🎨 UI/UX"],
-
-    dev_exp: {
-        languages: ["🐍 Python", "📊 R", "🌐 JS/Node.js", "🐚 Bash", "📄 HTML", "🎨 CSS", "⚛️ React", "🦄 Django", "🍰 Flask", "🐘 PostgreSQL", "🍃 MongoDB", "🐬 MySQL", "📐 MATLAB"],
-
-        tools_fw: ["🔧 Tableau", "🐋 Docker", "🐙 Git/GitHub", "🖥️ VS Code", "🐼 Pandas", "💼 MS Office", "🎨 Canva", "📚 Zotero", "☁️ AWS", "☁️ Google Cloud"],
-
-        prog_dev: ["🔌 API", "🔙 Backend", "🖥️ Frontend", "💻 Fullstack", "🔗 Microservices", "🛠️ Server-Client"],
-
-        data_skills: ["📊 Data Manipulation", "📈 Statistical Analysis", "📉 Data Visualization", "🤖 Machine Learning", "🔮 Predictive Modeling", "🧹 Data Cleaning", "🔍 EDA", "📊 Data Analytics", "🗄️ Database Management", "🔍 Data Query"],
-
-        fav_stacks: {
-            LAMP: "🐧 Linux, Apache, MySQL, PHP/Python",
-            MERN: "🌿 MongoDB, Express, React, Node.js",
-            DJANGOstack: "🦄 Python, Django, HTML, CSS, JS, PostgreSQL",
-            FLASKstack: "🍰 Python, Flask, HTML, CSS, JS, MySQL",
-            PYDATA: "📊 Python | Pandas, NumPy, Matplotlib, Seaborn, Sklearn",
-            RDATA: "📉 R | ggplot2, dplyr, tidyr, caret",
-            SQLDATA: "🗄️ SQL | PostgreSQL, MySQL, MongoDB"
-        }
-    }
-};
-```
 </div>
 
 <!-- ### &#x1f4c8; GitHub Stats
