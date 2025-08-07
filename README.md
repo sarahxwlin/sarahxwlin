@@ -19,8 +19,6 @@
 ```javascript
 const current_status = {
     greeting:    "💬 Nice to meet you. Let's connect~",
-    learning:    "🌱 Mobile dev, UI & UX, LP, and French",
-    working_on:  "🔭 New beginnings, networking, job search, and creating",
 };
 ```
 </div>
